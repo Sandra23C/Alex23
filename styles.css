@@ -57,15 +57,16 @@ div.desc {
   content: "";
   display: table;
   clear: both;}
-img {	display: block;
-		margin-left:	auto;
-		margin-right:	auto;
-		width:	300px;}
+img {display: block;
+     margin-left: auto;
+     margin-right: auto;
+	width:	300px;}
 .btn{border: none;
     color: black;
     background-color:#dda0dd; 
     cursor: pointer;
-   font-size: 20px;}
+   font-size: 20px;
+    text-align: center;}
 .topnav {border: none; 
    color: black;
   font-size: 15px;
@@ -76,4 +77,4 @@ img {	display: block;
   background-color: #ccccff;}
 .footer{text-align: center;
         background-color: floralwhite;
-        font-size: 18px;}
+        font-size: 17px;}
