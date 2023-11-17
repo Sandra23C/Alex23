@@ -19,6 +19,9 @@ h4{font-family: monospace;
 h5{font-family: monospace;
    font-size: 20px;
    text-align: center;}
+h6{font-family: monospace;
+   font-size: 20px;
+   text-align: center;}
 p{font-family: inherit;
   font-size: 18px;
   text-align-last: center;
