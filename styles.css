@@ -20,7 +20,9 @@ h3{font-family: monospace;
    text-align: center;}
 h4{font-family: Georgia Pro Semibold;
    font-size: 20px;
-   text-align: center;}
+   text-align: center;
+background-color: lavender;
+padding: 40px;}
 p{font-family: inherit;
   font-size: 18px;
   text-align-last: center;
