@@ -12,17 +12,20 @@ h1{font-family: Time New Roman;
    font-size: 30px;
    text-align: center;
    background-color: aliceblue;}
-h2{font-family: sans-serif;
-   font-size: 20px;
+h2{font-family:inherit;
+   font-size: 40px;
    text-align: center;}
 h3{font-family: monospace;
+   font-size: 25px;
+   text-align: center;}
+h4{font-family: Georgia Pro Semibold;
    font-size: 20px;
    text-align: center;}
 p{font-family: inherit;
   font-size: 18px;
   text-align-last: center;
   background-color: snow;
-  padding: 5px;
+    padding: 5px 10px;
   margin-left:	auto;
   margin-right:	auto;
   width:	50%; }
@@ -30,7 +33,7 @@ iframe{margin:50px;
 display: block;
 margin-left: auto;
 margin-right: auto;
-    border:solid;}
+padding:5px;}
 audio{display:block;
     margin-left: auto;
       margin-right: auto;
@@ -62,15 +65,20 @@ img {	display: block;
 		width:	300px;}
 .btn{border: none;
     color: black;
-    background-color:#dda0dd; 
+    background-color:#dbbefa; 
     cursor: pointer;
-   font-size: 20px;}
+   font-size: 18px;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 2px 2px;
+}
 .topnav {border: none; 
    color: black;
-  font-size: 15px;
-  padding: 15px 30px; 
   cursor: pointer;
- text-align: center;}
+ text-align: center;
+    text-decoration: none;}
 .topnav button:hover {
   background-color: #ccccff;}
 .footer{text-align: center;
